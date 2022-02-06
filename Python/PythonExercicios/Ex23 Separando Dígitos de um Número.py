@@ -1,0 +1,6 @@
+num = int(input('Digite um número entre 0 e 9999: '))
+n = str(num)
+print('O número {} possui, {} milhares.'.format(n, n[0]))
+print('O número {} possui, {} centenas. '.format(n, n[1]))
+print('O número {} possui, {} dezenas. '.format(n, n[2]))
+print('O número {} possui, {} unidades.'.format(n, n[3]))
