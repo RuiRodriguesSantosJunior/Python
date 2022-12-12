@@ -1,5 +1,5 @@
-"""n1 = int(input('Informe o primeiro valor: '))
-n2 = int(input('Informe o segundo valor: '))
+"""n1 = int(input('Informe o n1 valor: '))
+n2 = int(input('Informe o n2 valor: '))
 n3 = int(input('Informe o terceiro valor: '))
 maior = n1
 menor = n1
@@ -32,8 +32,8 @@ elif n3 > n1 and n3 > n2:
         print('O menor valor digitado foi: {}'.format(menor))
 """
 
-p = int(input('Primeiro valor: '))
-s = int(input('Segundo valor: '))
+p = int(input('n1 valor: '))
+s = int(input('n2 valor: '))
 t = int(input('Terceiro valor: '))
 maximo = max(p, s, t)
 minimo = min(p, s, t)

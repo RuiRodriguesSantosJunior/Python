@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bd11e615-a39f-4ff6-9b08-5b38f741e685" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/RuiRSantosJr/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RuiRSantosJr/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RuiRSantosJr/.idea/markdown.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RuiRSantosJr/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RuiRSantosJr/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RuiRSantosJr/Golang/HelloWorld.main" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RuiRSantosJr/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,7 +18,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/RuiRSantosJr" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
